@@ -1,12 +1,7 @@
+n= int(input("Enter the numnber : "))
 
-i=0
+i=1
 
-for p  in range(1,50):
-    if i%2 ==0:
-        i+=1
-    print(i)
-    i+=1
-    
-    
-    
-    
+i=n**0.5
+
+print(f"the square root of {n} is {i}")
