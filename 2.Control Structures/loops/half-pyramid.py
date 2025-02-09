@@ -14,8 +14,7 @@ for i in range(1,n+1):
         if i<=n:
             print(j,end=" ")
     print()
-        
-        
+print(f'end with {n}')
 
 
 """rows = 5  
